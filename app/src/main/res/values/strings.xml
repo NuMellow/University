@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">University</string>
+    <string name="univerisiry_site">Univerisiry site</string>
+    <string name="string_univerisiry_site" />
+    <string name="city_name">City Name</string>
+    <string name="university_logo">University Logo</string>
+    <string name="university_name">University Name</string>
+</resources>
